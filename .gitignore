@@ -72,3 +72,6 @@ Thumbs.db
 
 # Complete static website output, including generated language editions.
 website/_site/
+
+# Local session logs written by the HarnessKit session tooling (not project output)
+.harnesskit/
